@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1wbmzYLdDmRzgbx9onDMQJq9-N1ycQR4u
 # Playlist
 https://youtube.com/playlist?list=PLnCXYqYTJMTvyYHdzhAd3uWGQD9-RhX-6&si=yifkTlWhOGPT-VMP
 
-# Shahnewaz Sir
+## Shahnewaz Sir
 https://youtube.com/playlist?list=PLjMoG1xp0wL4RTJppu9fq6zP_PlhfLpQn&si=FuQm1tBfuZFjq6yZ
 
 ## SDQ(Lab)
