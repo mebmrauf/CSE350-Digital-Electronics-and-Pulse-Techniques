@@ -8,6 +8,9 @@ c. Teach students how to build simple memory and computational unit for digital 
 d. Expose students in the pulse wave shaping and oscillators using different electronic circuit elements
 e. Introduce students to design pulse generation in different ways and means of transmission
 
+# Text Books
+https://drive.google.com/drive/folders/1wbmzYLdDmRzgbx9onDMQJq9-N1ycQR4u
+
 # Playlist
 https://youtube.com/playlist?list=PLnCXYqYTJMTvyYHdzhAd3uWGQD9-RhX-6&si=yifkTlWhOGPT-VMP
 
