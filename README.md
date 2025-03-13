@@ -19,3 +19,20 @@ https://youtube.com/playlist?list=PLjMoG1xp0wL4RTJppu9fq6zP_PlhfLpQn&si=FuQm1tBf
 
 ## SDQ(Lab)
 https://youtube.com/playlist?list=PLPfbpzAKHDr2h6NICRLjCwh4QKl2-tTyE&si=8BsrOO2ijcC1OaVT
+
+# Topic Wise Video
+
+## RTL
+https://youtu.be/0NxIEUV2s1g?si=ncxqr2viSFQH2Uq5
+
+## RTL Inverter Problems
+https://youtu.be/rJrHfcP_p5o?si=DnE_gnSN7c-M1FYs
+
+## DTL AND TTL
+https://youtu.be/lQz0M2MjXdA?si=-lGCjOfMaTvJfH4h
+
+## Schimiit Trigger and Square Wave Generator
+https://youtu.be/xrEq6wr6Ia0?si=5ZLM3JxlNLR-s5x2
+
+## ADC and DAC Problems
+https://youtu.be/f_zNtfHjb9k?si=XUyOIBhBApMlQkZX
