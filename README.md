@@ -22,17 +22,32 @@ https://youtube.com/playlist?list=PLPfbpzAKHDr2h6NICRLjCwh4QKl2-tTyE&si=8BsrOO2i
 
 ## Topic Wise Video
 
-### RTL
+### RTL (SZZ)
 https://youtu.be/0NxIEUV2s1g?si=ncxqr2viSFQH2Uq5
 
-### RTL Inverter Problems
+### RTL Inverter Problems (SZZ)
 https://youtu.be/rJrHfcP_p5o?si=DnE_gnSN7c-M1FYs
 
-### DTL AND TTL
+### DTL AND TTL (SZZ)
 https://youtu.be/lQz0M2MjXdA?si=-lGCjOfMaTvJfH4h
 
-### Schimiit Trigger and Square Wave Generator
+### Schimiit Trigger (QSH)
+https://youtu.be/VGR78f8z4kw
+
+### Square Wave Generator (QSH)
+https://youtu.be/ZM4ZdrMWlNQ
+
+### Schimitt Trigger and Square Wave  Generator (SZZ)
 https://youtu.be/xrEq6wr6Ia0?si=5ZLM3JxlNLR-s5x2
 
-### ADC and DAC Problems
+### Flash ADC and Binary Weighted Resistor DAC (QSH)
+https://youtu.be/Vtky78RiGcI
+
+### ADC and DAC Problems (SZZ)
 https://youtu.be/f_zNtfHjb9k?si=XUyOIBhBApMlQkZX
+
+### Dual Slope ADC+ Binary Wighted DAC + Signal Generator (SZZ)
+https://youtu.be/GtAzCBqJARE?si=Wal8wrDFBdmOaI1x
+
+### CMOS (QSH)
+https://youtu.be/RJx70GYDsqQ
