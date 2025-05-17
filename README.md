@@ -59,3 +59,6 @@ e. Introduce students to design pulse generation in different ways and means of 
 
   ### CMOS (QSH)
     https://youtu.be/RJx70GYDsqQ
+
+  ### NMOS (QSH)    
+    https://youtu.be/bY5_6mozF7c
