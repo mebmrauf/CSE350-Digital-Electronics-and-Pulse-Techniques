@@ -31,13 +31,13 @@ e. Introduce students to design pulse generation in different ways and means of 
   ### DTL AND TTL (SZZ)
     https://youtu.be/lQz0M2MjXdA?si=-lGCjOfMaTvJfH4h
 
-  ### Schimiit Trigger (QSH)
+  ### Schmitt Trigger (QSH)
     https://youtu.be/VGR78f8z4kw
 
   ### Square Wave Generator (QSH)
     https://youtu.be/ZM4ZdrMWlNQ
 
-  ### Schimitt Trigger and Square Wave  Generator (SZZ)
+  ### Schmitt Trigger and Square Wave  Generator (SZZ)
     https://youtu.be/xrEq6wr6Ia0?si=5ZLM3JxlNLR-s5x2
 
   ### Flash ADC and Binary Weighted Resistor DAC (QSH)
