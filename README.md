@@ -9,45 +9,45 @@ d. Expose students in the pulse wave shaping and oscillators using different ele
 e. Introduce students to design pulse generation in different ways and means of transmission
 
 ## Text Books
-https://drive.google.com/drive/folders/1wbmzYLdDmRzgbx9onDMQJq9-N1ycQR4u
+  https://drive.google.com/drive/folders/1wbmzYLdDmRzgbx9onDMQJq9-N1ycQR4u
 
 ## Playlist
-https://youtube.com/playlist?list=PLnCXYqYTJMTvyYHdzhAd3uWGQD9-RhX-6&si=yifkTlWhOGPT-VMP
+  https://youtube.com/playlist?list=PLnCXYqYTJMTvyYHdzhAd3uWGQD9-RhX-6&si=yifkTlWhOGPT-VMP
 
-### Shahnewaz Sir
-https://youtube.com/playlist?list=PLjMoG1xp0wL4RTJppu9fq6zP_PlhfLpQn&si=FuQm1tBfuZFjq6yZ
+  ### Shahnewaz Sir
+    https://youtube.com/playlist?list=PLjMoG1xp0wL4RTJppu9fq6zP_PlhfLpQn&si=FuQm1tBfuZFjq6yZ
 
-### SDQ(Lab)
-https://youtube.com/playlist?list=PLPfbpzAKHDr2h6NICRLjCwh4QKl2-tTyE&si=8BsrOO2ijcC1OaVT
+  ### SDQ(Lab)
+    https://youtube.com/playlist?list=PLPfbpzAKHDr2h6NICRLjCwh4QKl2-tTyE&si=8BsrOO2ijcC1OaVT
 
 ## Topic Wise Video
 
-### RTL (SZZ)
-https://youtu.be/0NxIEUV2s1g?si=ncxqr2viSFQH2Uq5
+  ### RTL (SZZ)
+    https://youtu.be/0NxIEUV2s1g?si=ncxqr2viSFQH2Uq5
 
-### RTL Inverter Problems (SZZ)
-https://youtu.be/rJrHfcP_p5o?si=DnE_gnSN7c-M1FYs
+  ### RTL Inverter Problems (SZZ)
+    https://youtu.be/rJrHfcP_p5o?si=DnE_gnSN7c-M1FYs
 
-### DTL AND TTL (SZZ)
-https://youtu.be/lQz0M2MjXdA?si=-lGCjOfMaTvJfH4h
+  ### DTL AND TTL (SZZ)
+    https://youtu.be/lQz0M2MjXdA?si=-lGCjOfMaTvJfH4h
 
-### Schimiit Trigger (QSH)
-https://youtu.be/VGR78f8z4kw
+  ### Schimiit Trigger (QSH)
+    https://youtu.be/VGR78f8z4kw
 
-### Square Wave Generator (QSH)
-https://youtu.be/ZM4ZdrMWlNQ
+  ### Square Wave Generator (QSH)
+    https://youtu.be/ZM4ZdrMWlNQ
 
-### Schimitt Trigger and Square Wave  Generator (SZZ)
-https://youtu.be/xrEq6wr6Ia0?si=5ZLM3JxlNLR-s5x2
+  ### Schimitt Trigger and Square Wave  Generator (SZZ)
+    https://youtu.be/xrEq6wr6Ia0?si=5ZLM3JxlNLR-s5x2
 
-### Flash ADC and Binary Weighted Resistor DAC (QSH)
-https://youtu.be/Vtky78RiGcI
+  ### Flash ADC and Binary Weighted Resistor DAC (QSH)
+    https://youtu.be/Vtky78RiGcI
 
-### ADC and DAC Problems (SZZ)
-https://youtu.be/f_zNtfHjb9k?si=XUyOIBhBApMlQkZX
+  ### ADC and DAC Problems (SZZ)
+    https://youtu.be/f_zNtfHjb9k?si=XUyOIBhBApMlQkZX
 
-### Dual Slope ADC+ Binary Wighted DAC + Signal Generator (SZZ)
-https://youtu.be/GtAzCBqJARE?si=Wal8wrDFBdmOaI1x
+  ### Dual Slope ADC+ Binary Wighted DAC + Signal Generator (SZZ)
+    https://youtu.be/GtAzCBqJARE?si=Wal8wrDFBdmOaI1x
 
-### CMOS (QSH)
-https://youtu.be/RJx70GYDsqQ
+  ### CMOS (QSH)
+    https://youtu.be/RJx70GYDsqQ
