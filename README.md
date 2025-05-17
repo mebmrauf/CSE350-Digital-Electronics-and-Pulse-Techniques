@@ -28,13 +28,13 @@ e. Introduce students to design pulse generation in different ways and means of 
 ## Topic Wise Video
 
   ### RTL (SZZ)
-    https://youtu.be/0NxIEUV2s1g?si=ncxqr2viSFQH2Uq5
+    https://youtu.be/0NxIEUV2s1g
 
   ### RTL Inverter Problems (SZZ)
-    https://youtu.be/rJrHfcP_p5o?si=DnE_gnSN7c-M1FYs
+    https://youtu.be/rJrHfcP_p5o
 
   ### DTL AND TTL (SZZ)
-    https://youtu.be/lQz0M2MjXdA?si=-lGCjOfMaTvJfH4h
+    https://youtu.be/lQz0M2MjXdA
 
   ### Schmitt Trigger (QSH)
     https://youtu.be/VGR78f8z4kw
@@ -43,16 +43,16 @@ e. Introduce students to design pulse generation in different ways and means of 
     https://youtu.be/ZM4ZdrMWlNQ
 
   ### Schmitt Trigger and Square Wave  Generator (SZZ)
-    https://youtu.be/xrEq6wr6Ia0?si=5ZLM3JxlNLR-s5x2
+    https://youtu.be/xrEq6wr6Ia0
 
   ### Flash ADC and Binary Weighted Resistor DAC (QSH)
     https://youtu.be/Vtky78RiGcI
 
   ### ADC and DAC Problems (SZZ)
-    https://youtu.be/f_zNtfHjb9k?si=XUyOIBhBApMlQkZX
+    https://youtu.be/f_zNtfHjb9k
 
   ### Dual Slope ADC+ Binary Wighted DAC + Signal Generator (SZZ)
-    https://youtu.be/GtAzCBqJARE?si=Wal8wrDFBdmOaI1x
+    https://youtu.be/GtAzCBqJARE
 
   ### CMOS (QSH)
     https://youtu.be/RJx70GYDsqQ
