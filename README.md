@@ -12,11 +12,16 @@ e. Introduce students to design pulse generation in different ways and means of 
   https://drive.google.com/drive/folders/1wbmzYLdDmRzgbx9onDMQJq9-N1ycQR4u
 
 ## Playlist
-  https://youtube.com/playlist?list=PLnCXYqYTJMTvyYHdzhAd3uWGQD9-RhX-6&si=yifkTlWhOGPT-VMP
 
+  ### HRY
+    https://youtube.com/playlist?list=PLjMoG1xp0wL7eWYTkXeqCXDxx-utUQp7M&si=NwVeFKvv0sh4xjrd
+    
   ### Shahnewaz Sir
     https://youtube.com/playlist?list=PLjMoG1xp0wL4RTJppu9fq6zP_PlhfLpQn&si=FuQm1tBfuZFjq6yZ
 
+  ### Unknown
+    https://youtube.com/playlist?list=PLnCXYqYTJMTvyYHdzhAd3uWGQD9-RhX-6&si=yifkTlWhOGPT-VMP
+    
   ### SDQ(Lab)
     https://youtube.com/playlist?list=PLPfbpzAKHDr2h6NICRLjCwh4QKl2-tTyE&si=8BsrOO2ijcC1OaVT
 
