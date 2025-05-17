@@ -41,6 +41,9 @@ e. Introduce students to design pulse generation in different ways and means of 
 
   ### Square Wave Generator (QSH)
     https://youtu.be/ZM4ZdrMWlNQ
+  
+  ### Signal Generator full (QSH)
+    https://youtu.be/XFQPFQT84e4
 
   ### Schmitt Trigger and Square Wave  Generator (SZZ)
     https://youtu.be/xrEq6wr6Ia0
